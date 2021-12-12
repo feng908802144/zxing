@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
-## Project in Maintenance Mode Only
+## Project in Maintenance Mode Only 一款用于解析、生成多种格式的 1D/2D 条形码（UPC-A、QR Code、UPC-E、Data Matrix 等）的开源 Java 库。提供了多种的客户端支持包括：J2ME、J2SE 和 Android 等
 
 The project is in maintenance mode, meaning, changes are driven by contributed patches.
 Only bug fixes and minor enhancements will be considered. The Barcode Scanner app can
